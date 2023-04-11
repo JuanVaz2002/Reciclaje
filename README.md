@@ -1,6 +1,7 @@
 # Reciclaje
 
-Proyecto 50% de GYV Por JuanVaz2002 y TeodoroGon
+Proyecto 50% de GYV 
+Por JuanVaz2002 y TeodoroGon
 
 Software y materiales usados para este proyecto:
 
