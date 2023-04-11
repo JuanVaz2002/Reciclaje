@@ -1,4 +1,3 @@
-
 # --- Constants ---
 SPRITE_SCALING_WASTE = 0.5
 
