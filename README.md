@@ -8,3 +8,11 @@ Software y materiales usados para este proyecto:
     - Paquete: Arcade 2.6.17
   - Krita - Dibujar los gráficos
   - Wacom Intus
+
+Instruccion:
+  - Azul - Dónde tirar el desecho de papel
+  - Rojo - Dónde tirar el desecho peligrosos 
+  - Verde - Dónde tirar el desecho de vidrio 
+  - Amarillo - Dónde tirar el desecho plástico y metálico
+  - Naranja - Dónde tirar el desecho orgánico
+  - Gris - Dónde tirar el desecho en general 
